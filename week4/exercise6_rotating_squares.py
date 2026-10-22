@@ -1,6 +1,6 @@
 # Exercise 6: Draw 36 overlapping squares, or choose another count and colour.
 import turtle
-count = int(input('How many squares? (36 to match the diagram): '))
+count = -1
 while count <= 0:
     count = int(input('Enter a positive number of squares: '))
 colour = input('Enter a colour name (e.g. black, blue, red): ').strip() or 'black'

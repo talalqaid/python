@@ -1,5 +1,5 @@
 # Exercise 3: Find the total and average of a user-defined count.
-count = int(input('How many numbers will you enter? '))
+count=-1
 while count <= 0:
     count = int(input('Please enter a positive number of values: '))
 total = 0.0
