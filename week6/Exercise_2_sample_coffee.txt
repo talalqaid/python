@@ -1,0 +1,20 @@
+Java
+10
+dark
+beans
+Blue Mountain
+8
+medium
+ground
+Colombian
+5
+light
+beans
+Ethiopian
+7
+dark
+ground
+Kenyan
+6
+medium
+beans

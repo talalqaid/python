@@ -4,7 +4,6 @@ import random
 def coin(tosses, show_each=True):
     heads = 0
     tails = 0
-    results = []
     for _ in range(tosses):
         result = random.choice(('Heads', 'Tails'))
         if result == 'Heads':

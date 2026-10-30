@@ -16,4 +16,5 @@ def main():
     b = float(input('Second: '))
     c = float(input('Third: '))
     show_average(a, b, c)
+
 main()
