@@ -1,0 +1,24 @@
+Java
+10.0
+dark
+beans
+Blue Mountain
+8.0
+medium
+ground
+Colombian
+5.0
+light
+beans
+Ethiopian
+7.0
+dark
+ground
+Kenyan
+6.0
+medium
+beans
+BigCoffee
+2.0
+medium
+ground

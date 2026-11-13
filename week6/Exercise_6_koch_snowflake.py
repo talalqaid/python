@@ -2,7 +2,7 @@
 # k changes recursion depth; size changes side length.
 import turtle as t
 
-k = 4
+k = 1
 size = 400
 
 t.hideturtle()

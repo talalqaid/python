@@ -1,0 +1,7 @@
+#Expenses
+rent 1000
+transport 300
+food 400
+clothing 150
+socializing 200
+misc 100

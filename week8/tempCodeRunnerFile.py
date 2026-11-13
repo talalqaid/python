@@ -1,0 +1,1 @@
+unique_words.add(word.strip('.,!?;:"\'()').lower())

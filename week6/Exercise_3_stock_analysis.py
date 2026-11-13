@@ -7,7 +7,7 @@ def main():
         if line.strip() != '':
             values.append(float(line))
     stock_file.close()
-
+   
     if len(values) == 0:
         print('No stock data found.')
     else:
