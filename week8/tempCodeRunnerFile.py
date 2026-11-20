@@ -1,1 +1,1 @@
-unique_words.add(word.strip('.,!?;:"\'()').lower())
+counts.get(coffee, 0)
